@@ -2,6 +2,5 @@
 using namespace std;
 
 int main() {
-    // your code goes here
-    cout<<"HELlo World"<<endl;
+return 0;
 }
